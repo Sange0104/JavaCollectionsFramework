@@ -11,12 +11,15 @@ public class GenericArrayList {
 		
 		marks.add(30);
 		marks.add(3);
+		//marks.remove(1);
+		System.out.println(marks);
 
 		ArrayList<Double> arD = new ArrayList<Double>();
 		arD.add(30.34);
 		
 		ArrayList<String> student = new ArrayList<String>();
 		student.add("Yong");
+		student.add("Kim");
 	}
 
 }
