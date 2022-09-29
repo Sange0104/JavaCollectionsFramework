@@ -14,6 +14,7 @@ public class ArrayListDemo {
 		ar.add('C');
 		ar.add(12.33);
 		ar.add(true);
+		ar.remove(true);
 		
 		System.out.println(ar);
 		System.out.println(ar.size()); //6
