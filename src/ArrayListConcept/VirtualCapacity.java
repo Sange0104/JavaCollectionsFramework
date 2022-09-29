@@ -19,6 +19,8 @@ public class VirtualCapacity {
 		ar.add(200);
 		ar.add(200);
 		ar.add(300);
+		ar.add(400);
+		ar.add(500);
 		System.out.println(ar.size()); //PC=4
 
 	}
